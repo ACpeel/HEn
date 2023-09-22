@@ -35,11 +35,10 @@ git clone https://github.com/ACpeel/HEn.git
 git clone https://gitee.com/chenyh43/HEn.git
 ```
 
-
-
 2. 下载相应的依赖:Pygame
 
 ```bash
+cd HEn/src
 pip install -r requrements.txt
 ```
 
