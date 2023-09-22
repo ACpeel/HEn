@@ -24,10 +24,18 @@
 
 Linux & Mac: 包管理: Homebrew(Mac) , apt/rpm...(Linux)  $\to$下载git,python 
 
+- GitHub:
 ```bash
 git clone https://github.com/ACpeel/HEn.git
-cd HEn/src
 ```
+
+- Gitee:
+
+```bash
+git clone https://gitee.com/chenyh43/HEn.git
+```
+
+
 
 2. 下载相应的依赖:Pygame
 
