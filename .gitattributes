@@ -1,2 +1,2 @@
-*.x  linguist-vendored
+/data/level/* linguist-vendored
 
